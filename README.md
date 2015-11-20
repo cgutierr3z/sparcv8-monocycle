@@ -22,3 +22,5 @@ Procesador monociclo arquitectura SPARC V8 modelado en VHDL.
 
 ### Para mas informacion ver: [The SPARC Architecture Manual](https://github.com/z3774/sparcv8-monocycle/blob/master/The-SPARC-Architecture-Manual.pdf)
 
+#Licence
+This software is published under the [GNU GENERAL PUBLIC LICENSE Version 3](LICENSE)
